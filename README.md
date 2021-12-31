@@ -2,6 +2,9 @@
 
 A music player built with django web framework
 
+#link
+https://www.section.io/engineering-education/how-to-build-a-music-player-using-django/
+
 
 
 ## demo 
